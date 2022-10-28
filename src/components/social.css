@@ -1,0 +1,11 @@
+.flex{
+    display: flex;
+    justify-content: center;
+    padding: 1rem 2rem;
+}
+.div{
+    padding: 0 1rem;
+}
+.flex img{
+    width: 32px;
+}
