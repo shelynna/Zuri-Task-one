@@ -1,0 +1,15 @@
+*{
+  padding: 0;
+  margin: 0;
+  font-family: poppins, monospace;
+}
+html, body, li{
+  box-sizing: border-box;
+
+  list-style: none;
+background: #EAECF0;
+;
+}
+a{
+    text-decoration: none;
+}
