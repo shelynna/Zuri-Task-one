@@ -1,16 +1,16 @@
-
-.profile-image{
-    width: 100%;
+.profile-image {
+	width: 100%;
 	max-width: 90vw;
-    text-align: center;
-    
-    
+	text-align: center;
 }
-.profile-image img{
-    width: 15%;
-margin: 0 auto;
-cursor: pointer;
+.profile-image img {
+	width: 15%;
+	margin: 0 auto;
+	cursor: pointer;
 }
-.profile-image h2{
-   margin: 1rem 0 0.5rem 0;
+.profile-image h2 {
+	margin: 1rem 0 0.5rem 0;
+}
+#slack{
+    display:none;
 }
