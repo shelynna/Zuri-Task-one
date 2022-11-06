@@ -1,26 +1,20 @@
-import Links from "./components/Connect";
-import Footer from "./components/Footer";
-import Social from "./components/Social";
-import Profile from "./components/Profile";
+
 import './components/Connect.css'
-import { BrowserRouter as Router, Route, Switch } from 'react-router-dom';
-import Contact from "./components/Contact";
+import { Routes, Route } from 'react-router-dom';
+// import Contact from "./components/Contact";
+import ContactPage from "./pages/ContactPage";
+import HomePage from "./pages/HomePage";
+
 
 function App() {
   return (
-    <>
 
-      <section className="container ">
-        <Router>
-          <Profile />
-          <Links />
-          <Social />
-          <Contact />
-        </Router>
-        <Footer />
-      </section>
+    <Routes>
+      <Route path="/contact" element={<ContactPage />} />
+      <Route path="/" element={<HomePage />} />
+    </Routes>
 
-    </>
+
   );
 }
 
