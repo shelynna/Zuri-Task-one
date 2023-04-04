@@ -9,8 +9,8 @@ function Footer() {
         <>
         <footer >
             <div className='footer'>
-                    <a href="https://background.zuri.team" target="_blank" rel="noopener noreferrer"><img src={zuri} alt="zuru logo" /></a>
-                    <a href='https://background.zuri.team' target='_blank' rel="noopener noreferrer" ><h2>HNG Intenship 9 Fronend Task</h2> </a>
+                    <a href="/" target="_blank" rel="noopener noreferrer"><img src={zuri} alt="zuru logo" /></a>
+                    <a href='/' target='_blank' rel="noopener noreferrer" ><h2>Copyright | Created by Shelynna</h2> </a>
                     <img src={ingessive} alt="ingress logo" />
 
             </div>
