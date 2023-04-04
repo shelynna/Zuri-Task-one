@@ -5,7 +5,7 @@ export const links = [
         title: "contact me from here",
         target: "_blank",
         id: "twitter",
-        name: "iamshelynnna"
+        name: "Twitter"
     },
     {
         href: "https://www.linkedin.com/in/adjana-banawe-63b611189/",
