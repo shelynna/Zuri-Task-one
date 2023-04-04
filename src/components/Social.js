@@ -7,7 +7,7 @@ function Social() {
     return (
         <>
             <div className='flex'>
-                <a id='twitter' href='https://github.com/shelynna' target="_blank" rel="noopener noreferrer" className='div'><img src={slack} alt="my slack account" /></a>
+                <a id='twitter' href='https://app.slack.com/client/T04CZLK5SAK/C04DE41MB35' target="_blank" rel="noopener noreferrer" className='div'><img src={slack} alt="my slack account" /></a>
                 <a  href='https://github.com/shelynna' target="_blank" rel="noopener noreferrer" className='div'><img src={github} alt="my github account" /></a>
 
             </div>
