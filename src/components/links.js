@@ -8,44 +8,44 @@ export const links = [
         name: "iamshelynnna"
     },
     {
-        href: "https://training.zuri.team/",
+        href: "https://www.linkedin.com/in/adjana-banawe-63b611189/",
         rel: "noopener noreferrer",
-        title: "This redirects to zuri training page",
+        title: "This redirects to LinkedIn page",
         target: "_blank",
         id: "btn__zuri",
-        name: "Zuri Books"
+        name: "LinkedIn"
     },
     {
-        href: "https://books.zuri.team/",
+        href: "https://www.instagram.com/officialshelynna/",
         rel: "noopener noreferrer",
-        title: "This redirects to zuri books",
+        title: "This redirects to Instagram",
         target: "_blank",
         id: "books",
-        name: "Zuri Team",
+        name: "Instagram",
     },
     {
-        href: "https://books.zuri.team/python-for-beginners?ref_id=shelynna",
+        href: "https://www.youtube.com/@pc_genius",
         rel: "noopener noreferrer",
-        title: "This redirects to zuri python books",
+        title: "This redirects to my youtube channel",
         target: "_blank",
         id: "book__python",
-        name: "Python Books"
+        name: "PC Genius Channel"
     },
     {
-        href: "https://background.zuri.team",
+        href: "https://drive.google.com/drive/folders/1o2XS4q9TQgDQKZNr1XfKZcAUCHA24ejv?usp=share_link",
         rel: "noopener noreferrer",
-        title: "This redirects to background check",
+        title: "This redirects to G-drive containing my certificates",
         target: "_blank",
         id: "pitch",
-        name: "Background Check for Coders"
+        name: "Certificates and CV"
     },
     {
-        href: "https://books.zuri.team/design-rules",
+        href: "https://web.facebook.com/groups/techsourceit",
         rel: "noopener noreferrer",
-        title: "This redirects to design books",
+        title: "This redirects to my Facebook group",
         target: "_blank",
         id: "book__design",
-        name: "Design Books"
+        name: "TechSource Facebook Group"
     },
     {
         href: "/contact",
